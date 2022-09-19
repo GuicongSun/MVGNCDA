@@ -2,7 +2,7 @@
 
 
 
-The tool is developed for circRNA-disease association based on multi-view graph convolutional networks and network embed-dings
+The tool is developed for circRNA-disease association based on multi-view graph convolutional networks and network embeddings
 ![image](https://github.com/GuicongSun/MVGNCDA/blob/main/Architecture.png)
 
 
@@ -15,7 +15,7 @@ Dataset2:Circ2Disease;
 
 Dataset3: circRNA disease;
 
-Dataset5: CircFunBase.
+Dataset4: CircFunBase.
 
 # Dependency
 - Python 3.8 (64-bit)
