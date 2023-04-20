@@ -6,15 +6,11 @@ This tool is developed for circRNA-disease association prediction based on multi
 ![image](https://github.com/GuicongSun/MVGNCDA/blob/main/Architecture.png)
 
 
-## Datasets 
-
-Dataset1:circR2Disease;
-
-Dataset2:Circ2Disease;
-
-Dataset3:circRNA disease;
-
-Dataset4:CircFunBase.
+# Datasets 
+- Dataset1:circR2Disease
+- Dataset2:Circ2Disease
+- Dataset3:circRNA disease
+- Dataset4:CircFunBase
 
 # Dependency
 - Python 3.8 (64-bit)
