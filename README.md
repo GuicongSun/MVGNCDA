@@ -1,10 +1,6 @@
 # MVGNCDA
 
 
-This tool is developed for circRNA-disease association prediction based on multi-view graph convolutional networks and network embeddings
-
-![image](https://github.com/GuicongSun/MVGNCDA/blob/main/Architecture.png)
-
 
 # Datasets 
 - Dataset1:circR2Disease
