@@ -10,6 +10,7 @@
 - Dataset2:Circ2Disease
 - Dataset3:circRNA disease
 - Dataset4:CircFunBase
+- Dataset5:CircR2Disease v2.0
 
 # Dependency
 - Python 3.8 (64-bit)
